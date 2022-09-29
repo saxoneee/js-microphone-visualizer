@@ -1,0 +1,12 @@
+body {
+    color: #888;
+    background: #262626;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+    font-family: "helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  
+  canvas {
+    box-shadow:0 0 2px red;
+  }
